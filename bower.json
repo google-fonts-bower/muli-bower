@@ -1,0 +1,17 @@
+{
+    "name": "muli-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Vernon Adams"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/muli-bower.git"
+    },
+    "description": "Muli font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
